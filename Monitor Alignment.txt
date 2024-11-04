@@ -1,0 +1,8 @@
+note on fixing monitor alignment
+
+in terminal, navigate to build folder for monitor system custom code.
+run terminal prompt top run exe --> .\debug\{name of exe file}
+monitor gives current coordinates
+perform placement moves screens to desired location given in code
+
+note* this may take 2 to 3 attempts i believe due to the stacking/snapping mechanism
